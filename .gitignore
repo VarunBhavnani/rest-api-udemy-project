@@ -1,0 +1,6 @@
+.qodo
+.venv
+.vscode
+__pycache__
+data.db
+.DS_store
